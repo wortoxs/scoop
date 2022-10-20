@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/OmniSharp/omnisharp-roslyn/releases/download/v1.39.1/omnisharp-win-x64-net6.0.zip",
-            "hash": "5cc5974bf5427573a764bb8ef45dcbbe7a5d33fcf2d582d01be286ca7af2888a"
+            "hash": "f38bab3130cf5f7bf45318c3512f38e8c2cfc8c053c7bdb7d128556c3b0453f3"
         },
         "32bit": {
             "url": "https://github.com/OmniSharp/omnisharp-roslyn/releases/download/v1.39.1/omnisharp-win-x86-net6.0.zip",
-            "hash": "01e001b608aa1deab29c6b2b2b6c43c44f476145e6be31dda07fb7d9e668c13b"
+            "hash": "6c46e27c6bcf495af320beb41ca86261b0404e7cccf293d4ae4a4a9fdfcee816"
         }
     },
     "bin": "omnisharp.exe",
