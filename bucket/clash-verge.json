@@ -1,12 +1,12 @@
 {
     "homepage": "https://github.com/zzzgydi/clash-verge",
     "license": "GPL-3.0",
-    "version": "1.1.1",
+    "version": "1.2.1",
     "description": "A Clash GUI based on tauri. Supports Windows, macOS and Linux. ",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zzzgydi/clash-verge/releases/download/v1.1.1/Clash.Verge_1.1.1_x64_portable.zip",
-            "hash": "edf23ec8bc1973e2bf5c3f83c28049c281d8d212b924a808191ed273d5cd7142"
+            "url": "https://github.com/zzzgydi/clash-verge/releases/download/v1.2.1/Clash.Verge_1.2.1_x64_portable.zip",
+            "hash": "2692aed8c1894cb1417572215cdb5e7df12fad09405005afefb27afc0912bfc9"
         }
     },
     "checkver": {
