@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/toeverything/AFFiNE/releases/download/v$version/affine-windows-x64.zip"
+                "url": "https://github.com/toeverything/AFFiNE/releases/download/v$version/affine-stable-windows-x64.zip"
             }
         }
     },
